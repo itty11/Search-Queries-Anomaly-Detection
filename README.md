@@ -2,7 +2,7 @@
 This project detects **anomalous search query behavior** (e.g., unusual spikes or drops in clicks, impressions, or CTR) using an **Isolation Forest** machine learning model.   It includes both a **training script** and an **interactive Streamlit dashboard** for visualization and analysis.
 
 ### **Data Description**
-Dataset Example (from [Aman Kharwal - The Clever Programmer]([https://thecleverprogrammer.com/](https://amanxai.com/2023/11/20/search-queries-anomaly-detection-using-python/))):
+Dataset Example (from [Aman Kharwal - The Clever Programmer]((https://amanxai.com/2023/11/20/search-queries-anomaly-detection-using-python/))):
 
 | Column | Description |
 |---------|--------------|
